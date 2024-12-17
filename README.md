@@ -15,9 +15,13 @@ This report considered the following main questions:
 Analytical Approach Highlights:
 
 **Cleaned and Pre-processed Data**: Ensured data quality by meticulously identifying and addressing inconsistencies, improving database interactions, and guaranteeing completeness. There were particular issues with data types and the presence of outliers.
+
 **SQL Analysis**: Utilised SQL to conduct in-depth analyses, including total spend per country, demographic-based product popularity, and advertising platform performance. These insights revealed hidden patterns for informed decision-making.
+
 **Actionable Dashboard**s: Designed user-friendly dashboards segmented by demographics, advertising and product interactions. These dashboards followed WAI (Web Accessibility Initiative) guidelines for accessibility, allowing stakeholders to easily grasp key findings. These can be found below.
+
 **Strategic Recommendations**: Delivered actionable insights with a direct impact on 2Market's strategy. This included optimising advertising spend, tailoring marketing for specific demographics, and adjusting product categories based on customer preferences.
+
 
 **Key Insights and Recommendations:**
 
