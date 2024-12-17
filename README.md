@@ -23,9 +23,20 @@ Analytical Approach Highlights:
 **Strategic Recommendations**: Delivered actionable insights with a direct impact on 2Market's strategy. This included optimising advertising spend, tailoring marketing for specific demographics, and adjusting product categories based on customer preferences.
 
 
-**Key Insights and Recommendations:**
-
-**Tableau Dashboard** - 
+**Tableau Dashboard** - https://public.tableau.com/app/profile/harshdeep.kohli/vizzes
 
 **Presentation** - https://youtu.be/87TLc9i7vqI
+
+
+**Key Insights and Recommendations:**
+
+**Customer Demographics
+Product Sale
+Adveritising**
+
+
+
+**Professional Development and Impact:**
+
+This project showcased my ability to manage large datasets, translate complex data into business insights, and deliver strategic recommendations.In particular I felt an extensive use of SQL played a central role in uncovering critical customer insights, guiding the supermarket chain toward strategic sales growth.
 
