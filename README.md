@@ -30,10 +30,11 @@ Analytical Approach Highlights:
 
 **Key Insights and Recommendations:**
 
-**Customer Demographics
-Product Sale
-Adveritising**
+**Customer Demographics**
 
+**Product Sales**
+
+**Advertising** 
 
 
 **Professional Development and Impact:**
