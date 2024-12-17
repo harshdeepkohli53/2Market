@@ -1,0 +1,78 @@
+
+LSE_DA101_Assignment
+
+File name: metadata_2Market.txt
+
+The metadata here describes the two CSV files provided for Course 1: Data Analytics for Business assignment.
+                                       
+The two CSV files are:	marketing_data.csv
+			ad_data.csv
+
+***********************************************************************************************
+
+marketing_data.csv
+
+___			___			___
+
+Column			Sample value		Interpretation of column
+___			___			___
+
+ID			5642			Unique customer ID
+Year_Birth		1980			Customer’s year of birth
+Education		Master			Educational qualification of the customer
+Marital_Status		Together 		Customer’s marital status 
+Income			$62,499.00		Customer's annual income
+Kidhome			1			Number of kids the customer has
+Teenhome		1			Number of teenagers the customer has
+Dt_Customer		12/09/2013		Date of customer's registration with the company
+Recency			99			Number of days since customer's last purchase
+AmtLiq			140			Amount spent on alcoholic beverages
+AmtVege			4			Amount spent on vegetables
+AmtNonVeg		61			Amount spent on meat items
+AmtPes			25			Amount spent on fish products
+AmtChocolates		30			Amount spent on chocolates
+AmtComm			197			Amount spent on commodities
+NumDeals		2			Number of deals purchased made with a discount 
+NumWebBuy		3			Number of purchases made from the website
+NumWalkinPur		6			Number of in-store purchases
+NumVisits		4			Number of website visits per month
+Response		1			Boolean. If the customer had accepted the last campaign’s offer (1) or not (0)
+Complain		1			Boolean. If the customer had complained in the last 2 years (1) or not (0)
+Country			SP			Customer's location:
+							AUS	Australia
+							CA	Canada
+							GER 	Germany
+							IND 	India
+							ME 	Montenegro
+							SA 	South Africa
+							SP 	Spain
+							US 	United States of America
+Count_success		1			Total number of successful lead conversions
+
+
+
+
+***********************************************************************************************
+
+ad_data.csv
+
+___			___			___
+
+Column        		Sample value      	Interpretation of column
+___			___			___
+
+ID			5642			Unique customer ID
+Bulkmail_ad		1			Boolean. Successful lead conversions from bulk e-mails (1) or not (0)
+						(when a potential customer who received the email contacted the company and purchased a product)	
+Twitter_ad		1			Boolean. Successful lead conversions from Twitter (1) or not (0)
+						(when a potential customer who clicked on the Twitter ad posted by the company and purchased a product) 
+Instagram_ad		1			Boolean. Successful lead conversions from Instagram (1) or not (0)
+						(when a potential customer who clicked on the Instagram ad posted by the company and purchased a product) 
+Facebook_ad		1			Boolean. Successful conversions from Facebook (1) or not (0)
+						(when a potential customer who clicked on the Facebook ad posted by the company and purchased a product) 
+Brochure_ad		1			Boolean. Successful conversions from brochures (1) or not (0)
+						(when a potential customer who received the company brochure, purchased a product) 
+
+
+
+***********************************************************************************************			
