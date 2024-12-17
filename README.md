@@ -3,7 +3,7 @@
 
 Project Summary: The first six week LSE project involved a fictional situation I helped 2Market, a leading international supermarket chain, leverage data analytics to gain deeper customer understanding to boost sales. By analysing consumer datasets, I uncovered valuable insights into customer behaviour, sales trends, and advertising effectiveness.
 
-The business problem I identified centres oround the marketing team struggling to generate adequate new business growth due to uncertainty around customer demographics and advertising
+The business problem I identified centres around the marketing team struggling to generate adequate new business growth due to uncertainty around customer demographics and advertising
 
 This report considered the following main questions:
 
@@ -24,4 +24,8 @@ Analytical Approach Highlights:
 
 
 **Key Insights and Recommendations:**
+
+**Tableau Dashboard** - 
+
+**Presentation** - https://youtu.be/87TLc9i7vqI
 
