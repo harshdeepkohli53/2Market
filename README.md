@@ -30,11 +30,29 @@ Analytical Approach Highlights:
 
 **Key Insights and Recommendations:**
 
+
 **Customer Demographics**
+
+1. Identified a core customer segment of $50K-$90K income earners as having the highest spend per customer, and suggested targeting marketing to this customer segment.
+2. Identified customers 'without children' spend c.$700 more annually than customers 'with children', and suggested targeting marketing to this customer segment.
+
+![image](https://github.com/user-attachments/assets/4f0948c4-07c8-459a-b9d4-dc52a7c7b7ec)
+
 
 **Product Sales**
 
+1. Identified a core customer segement of 45-74 year olds having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
+2. Identified a core customer segement of $50K-$74K income earners having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
+
+![image](https://github.com/user-attachments/assets/2104ce1e-486c-41bb-9061-8f3f33b6316a)
+
+
 **Advertising** 
+
+1. Determined Twitter and Instagram as highly effective ad platforms globally; identified regional opportunities like the effectivenss of Facebook in the U.S.
+2. Highlighted bulk emails' success in India and the U.S., recommending increased focus on personalised email campaigns.
+
+![image](https://github.com/user-attachments/assets/a1cc7c15-a98a-482d-a0df-dd847cf61c10)
 
 
 **Professional Development and Impact:**
