@@ -44,7 +44,7 @@ Analytical Approach Highlights:
 1. Identified a core customer segement of 45-74 year olds having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
 2. Identified a core customer segement of $50K-$74K income earners having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
 
-![image](https://github.com/user-attachments/assets/2104ce1e-486c-41bb-9061-8f3f33b6316a)
+![image](https://github.com/user-attachments/assets/bb0c9412-4b34-498d-aa99-90f4542ff8bf)
 
 
 **Advertising** 
