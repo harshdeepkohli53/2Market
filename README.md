@@ -14,7 +14,7 @@ This report considered the following main questions:
 **“How do customers interact with products?”**
 
 
-Analytical Approach Highlights:
+**Analytical Approach Highlights:**
 
 **Cleaned and Pre-processed Data**: Ensured data quality by meticulously identifying and addressing inconsistencies, improving database interactions, and guaranteeing completeness. There were particular issues with data types and the presence of outliers.
 
