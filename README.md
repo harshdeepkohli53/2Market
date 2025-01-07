@@ -7,11 +7,11 @@ The business problem I identified centres around the marketing team struggling t
 
 This report considered the following main questions:
 
-**“Who are the customers?”**
+**1. Who are the customers?**
 
-**“How effective have current ad strategies been?”**
+**2. How effective have current ad strategies been?**
 
-**“How do customers interact with products?”**
+**3. How do customers interact with products?**
 
 
 **Analytical Approach Highlights:**
