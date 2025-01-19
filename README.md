@@ -1,4 +1,4 @@
-# 2Market
+# 2Market (Final Grade: 82%)
 2Market - Exploratory analysis and presenting insights
 
 Project Summary: The first six week LSE project involved a fictional situation I helped 2Market, a leading international supermarket chain, leverage data analytics to gain deeper customer understanding to boost sales. By analysing consumer datasets, I uncovered valuable insights into customer behaviour, sales trends, and advertising effectiveness.
