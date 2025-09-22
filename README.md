@@ -43,8 +43,8 @@ This report considered the following main questions:
 
 **Product Sales**
 
-1. Identified a core customer segement of 45-74 year olds having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
-2. Identified a core customer segement of $50K-$74K income earners having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
+1. Identified a core customer segement of 45-74 year olds having the largest percentage share of spending on the top selling product ('Liquor') compared to other products, and suggested targetted marketing for this segment
+2. Identified a core customer segement of $50K-$74K income earners having the largest percentage share of spending on the top selling product ('Liquor') compared to other products, and suggested targetted marketing for this segment
 
 ![image](https://github.com/user-attachments/assets/bb0c9412-4b34-498d-aa99-90f4542ff8bf)
 
